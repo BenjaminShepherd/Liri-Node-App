@@ -1,0 +1,1290 @@
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+Name of the Venue: The Met
+Venue Location: Philadelphia
+Date of the Event: 2019-06-12T18:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: MGM National Harbor
+Venue Location: Washington
+Date of the Event: 2019-06-14T18:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Red Hat Amphitheater
+Venue Location: Raleigh
+Date of the Event: 2019-06-15T18:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: State Bank Amphitheatre at Chastain Park
+Venue Location: Atlanta
+Date of the Event: 2019-06-19T18:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: CFE Arena
+Venue Location: Orlando
+Date of the Event: 2019-06-21T18:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Bayfront Park Amphitheater
+Venue Location: Miami
+Date of the Event: 2019-06-22T18:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: St. Augustine Amphitheater
+Venue Location: St. Augustine
+Date of the Event: 2019-06-23T18:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Ascend Amphitheatre
+Venue Location: Nashville
+Date of the Event: 2019-06-25T18:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: The Pavilion at Toyota Music Factory
+Venue Location: Dallas
+Date of the Event: 2019-06-28T18:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Revention Music Center
+Venue Location: Houston
+Date of the Event: 2019-06-29T18:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: H-E-B Center at Cedar Park
+Venue Location: Austin
+Date of the Event: 2019-06-30T18:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Villa Hispana Pavilion
+Venue Location: Albuquerque
+Date of the Event: 2019-07-02T18:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Comerica Theatre
+Venue Location: Phoenix
+Date of the Event: 2019-07-05T18:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: House of Blues
+Venue Location: Las Vegas
+Date of the Event: 2019-07-06T18:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Cal Coast Credit Union OAT
+Venue Location: San Diego
+Date of the Event: 2019-07-10T18:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-07-12T18:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: The Masonic
+Venue Location: San Francisco
+Date of the Event: 2019-07-13T18:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: WAMU Theater
+Venue Location: Seattle
+Date of the Event: 2019-07-16T18:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Queen Elizabeth Theatre
+Venue Location: Vancouver
+Date of the Event: 2019-07-17T18:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Moda Center (TOTC)
+Venue Location: Portland
+Date of the Event: 2019-07-18T18:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: USANA Pavilion**
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-20T18:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: The Fillmore Auditorium
+Venue Location: Denver
+Date of the Event: 2019-07-21T18:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Pinewood Bowl
+Venue Location: Lincoln
+Date of the Event: 2019-07-24T18:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Uptown Theater
+Venue Location: Kansas City
+Date of the Event: 2019-07-25T18:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Huntington Bank Pavilion at Northerly Island
+Venue Location: Chicago
+Date of the Event: 2019-07-27T18:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: The Armory
+Venue Location: Minneapolis
+Date of the Event: 2019-07-28T18:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Meadow Brook Amphitheater
+Venue Location: Detroit
+Date of the Event: 2019-07-30T18:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: PNC Pavilion at Riverbend Music Center
+Venue Location: Cincinnati
+Date of the Event: 2019-07-31T18:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Farm Bureau Insurance Lawn
+Venue Location: Indianapolis
+Date of the Event: 2019-08-02T18:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Jacobs Pavilion at Nautica
+Venue Location: Cleveland
+Date of the Event: 2019-08-03T18:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Blue Hills Bank Pavilion
+Venue Location: Boston
+Date of the Event: 2019-08-06T18:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Mohegan Sun Arena
+Venue Location: Uncasville
+Date of the Event: 2019-08-08T18:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Northwell Health at Jones Beach Theater
+Venue Location: Wantagh
+Date of the Event: 2019-08-10T18:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: MECU Pavilion
+Venue Location: Baltimore
+Date of the Event: 2019-08-11T18:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Rockefeller
+Venue Location: Oslo
+Date of the Event: 2019-09-18T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Fryhuset
+Venue Location: Stockholm
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Vega
+Venue Location: Copenhagen
+Date of the Event: 2019-09-20T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Kesselhaus
+Venue Location: Berlin
+Date of the Event: 2019-09-22T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Batschkapp
+Venue Location: Frankfurt
+Date of the Event: 2019-09-24T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Paradiso
+Venue Location: Amsterdam
+Date of the Event: 2019-09-25T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: TRIX
+Venue Location: Antwerp
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Live Music Hall
+Venue Location: Cologne
+Date of the Event: 2019-09-28T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Kaufleuten
+Venue Location: Zurich
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Fabrique
+Venue Location: Milan
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Le Trabendo
+Venue Location: Paris
+Date of the Event: 2019-10-02T20:00:00
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: Roundhouse
+Venue Location: London
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: o2 Academy
+Venue Location: Birmingham
+Date of the Event: 2019-10-05T20:00:00
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: SWG3
+Venue Location: Glasgow
+Date of the Event: 2019-10-07T20:00:00
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: O2 Academy
+Venue Location: Manchester
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: Olympia
+Venue Location: Dublin
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: Forum
+Venue Location: Melbourne
+Date of the Event: 2019-11-06T20:00:00
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: Tivoli
+Venue Location: Brisbane
+Date of the Event: 2019-11-07T20:00:00
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: Enmore Theatre
+Venue Location: Sydney
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: Powerstation
+Venue Location: Auckland
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+******SONG INFO******
+0
+song name: Bankhead (feat. P$C & Young Dro)
+preview song: https://p.scdn.co/mp3-preview/b9aadd7f12a3fda86adbe3775a5553a41d2d8b06?cid=51e469f29b814403829cf7082a9c2e76
+album: King
+******SONG INFO******
+1
+song name: Spaceships on Bankhead
+preview song: https://p.scdn.co/mp3-preview/64fc75048c8145800f5faa140db97084aed7d52f?cid=51e469f29b814403829cf7082a9c2e76
+album: I Am the Street Dream
+******SONG INFO******
+2
+song name: Damages
+preview song: https://p.scdn.co/mp3-preview/9da3a79279339932b29f23445a9a58d04d5fa139?cid=51e469f29b814403829cf7082a9c2e76
+album: Joe Dirt the Mixtape
+******SONG INFO******
+3
+song name: Bankhead
+preview song: https://p.scdn.co/mp3-preview/012ef137529f1d297ca5edc72bf3dce39ca30c81?cid=51e469f29b814403829cf7082a9c2e76
+album: Down For Life
+******SONG INFO******
+4
+song name: Get to That Bag
+preview song: https://p.scdn.co/mp3-preview/133a7fad430e5d0a7e8c1a68cce212ce6513d1cb?cid=51e469f29b814403829cf7082a9c2e76
+album: Get to That Bag
+******SONG INFO******
+5
+song name: Party Girl (feat. Fetty Wap)
+preview song: https://p.scdn.co/mp3-preview/a3a74d8cf8367dba16167e0b75fff6a497090e22?cid=51e469f29b814403829cf7082a9c2e76
+album: Party Girl (feat. Fetty Wap)
+******SONG INFO******
+6
+song name: They Say Where You Been
+preview song: https://p.scdn.co/mp3-preview/7ab0f267a0b7930744902c370eef5b9e6e351350?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+******SONG INFO******
+7
+song name: Bankhead
+preview song: https://p.scdn.co/mp3-preview/270115bcfb40048ad86af04d325f452e36ba9a1f?cid=51e469f29b814403829cf7082a9c2e76
+album: Blunts & Bundles
+******SONG INFO******
+8
+song name: I Know
+preview song: https://p.scdn.co/mp3-preview/62dd678f8413d7e0faff59dc9f041fbd0950caee?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+******SONG INFO******
+9
+song name: The Whole World (feat. Zion I, Ariano, Sage One The Wise, Josh Dominguez & DeShane Bankhead)
+preview song: https://p.scdn.co/mp3-preview/f77b0d146647e0981ad6739cbcd4c1af94e17fc5?cid=51e469f29b814403829cf7082a9c2e76
+album: The Whole World (feat. Zion I, Ariano, Sage One The Wise, Josh Dominguez & DeShane Bankhead)
+******SONG INFO******
+10
+song name: Bigger Picture
+preview song: https://p.scdn.co/mp3-preview/85ca58d790190f15a516ac7f1300b6ed05070be4?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+******SONG INFO******
+11
+song name: Pocahontas
+preview song: https://p.scdn.co/mp3-preview/a226d1bb0ed23332713a56dc5857196a5e78fc3c?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+******SONG INFO******
+12
+song name: Better Days
+preview song: https://p.scdn.co/mp3-preview/1b592c5b78a6c6bd4af1d6da65bc333f6754b78c?cid=51e469f29b814403829cf7082a9c2e76
+album: Joe Dirt the Mixtape
+******SONG INFO******
+13
+song name: So Many Tears
+preview song: https://p.scdn.co/mp3-preview/a2b6724ce85f87a2406314b58c9412a126948050?cid=51e469f29b814403829cf7082a9c2e76
+album: So Many Tears
+******SONG INFO******
+14
+song name: Cake
+preview song: https://p.scdn.co/mp3-preview/cf648098bbd6be2b58f98965a49e16fac30d7bf8?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+******SONG INFO******
+15
+song name: BankHead Bounce Back
+preview song: https://p.scdn.co/mp3-preview/d8d8215111865b0acdf516fab4ef92fb00b4da86?cid=51e469f29b814403829cf7082a9c2e76
+album: BankHead Bounce Back
+******SONG INFO******
+16
+song name: I'm Rich
+preview song: https://p.scdn.co/mp3-preview/853385546823d2bbd3222e23aa14ee2b57945a1d?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+******SONG INFO******
+17
+song name: Hey Hoe
+preview song: https://p.scdn.co/mp3-preview/32f71ee84c66b753904b34c14562000a9604f95c?cid=51e469f29b814403829cf7082a9c2e76
+album: Cash Cow
+******SONG INFO******
+18
+song name: Dope Boi ding-a-ling
+preview song: https://p.scdn.co/mp3-preview/51874593470784b1018e4b4fb7ae3336210020b2?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+******SONG INFO******
+19
+song name: Tunnel Vision
+preview song: https://p.scdn.co/mp3-preview/b40046e8080ed840c6da4c88aa703ace93958e45?cid=51e469f29b814403829cf7082a9c2e76
+album: Bankhead Forever
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+**********MOVIE INFO*********
+**********MOVIE INFO*********
+**********MOVIE INFO*********
+Title: The Sandlot
+Release Year: 1993
+IMDB Rating: 7.8
+Country of Production: USA
+Language: English
+Plot: In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.
+Actors: Art LaFleur, Tom Guiry, Mike Vitar, Patrick Renna
+*****************************
+**********MOVIE INFO*********
+Title: The Sandlot
+Release Year: 1993
+IMDB Rating: 7.8
+Country of Production: USA
+Language: English
+Plot: In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.
+Actors: Art LaFleur, Tom Guiry, Mike Vitar, Patrick Renna
+*****************************
+**********MOVIE INFO*********
+Title: The Sandlot
+Release Year: 1993
+IMDB Rating: 7.8
+Country of Production: USA
+Language: English
+Plot: In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.
+Actors: Art LaFleur, Tom Guiry, Mike Vitar, Patrick Renna
+*****************************
+**********MOVIE INFO*********
+Title: The Sandlot
+Release Year: 1993
+IMDB Rating: 7.8
+Country of Production: USA
+Language: English
+Plot: In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.
+Actors: Art LaFleur, Tom Guiry, Mike Vitar, Patrick Renna
+*****************************
+******SONG INFO******
+0
+song name: Wind Blow
+preview song: null
+album: Strength & Loyalty
+******SONG INFO******
+1
+song name: I Want Wind to Blow
+preview song: https://p.scdn.co/mp3-preview/299f117f1ea9a4419808a1af3d03086697456850?cid=51e469f29b814403829cf7082a9c2e76
+album: The Glow, Pt. 2
+******SONG INFO******
+2
+song name: Watch The Wind Blow By
+preview song: https://p.scdn.co/mp3-preview/045ddd461002f821069b99599ee001afc63d26cf?cid=51e469f29b814403829cf7082a9c2e76
+album: Tim McGraw And The Dancehall Doctors
+******SONG INFO******
+3
+song name: Blow It In The Wind
+preview song: https://p.scdn.co/mp3-preview/9da836a7e6cb55ebd95f5c52b4aa0cc1a7b7febb?cid=51e469f29b814403829cf7082a9c2e76
+album: Royalty (Deluxe Version)
+******SONG INFO******
+4
+song name: Wild World
+preview song: https://p.scdn.co/mp3-preview/0b23734796bf3fd5b25e9ce0dfedde0c96c4dca4?cid=51e469f29b814403829cf7082a9c2e76
+album: Blow in the Wind
+******SONG INFO******
+5
+song name: Watch The Wind Blow By
+preview song: https://p.scdn.co/mp3-preview/045ddd461002f821069b99599ee001afc63d26cf?cid=51e469f29b814403829cf7082a9c2e76
+album: Love Story
+******SONG INFO******
+6
+song name: Who Put the Bomp
+preview song: https://p.scdn.co/mp3-preview/898125618ed340865f99b9957d73de32d271050b?cid=51e469f29b814403829cf7082a9c2e76
+album: Blow in the Wind
+******SONG INFO******
+7
+song name: Watch The Wind Blow By
+preview song: https://p.scdn.co/mp3-preview/1667fb0d9692ab4797445e1bd7f19d9265477f5e?cid=51e469f29b814403829cf7082a9c2e76
+album: 35 Biggest Hits
+******SONG INFO******
+8
+song name: Sloop John B.
+preview song: https://p.scdn.co/mp3-preview/208e0dd0da1ae59a6bc239ef119567044b6e991f?cid=51e469f29b814403829cf7082a9c2e76
+album: Blow in the Wind
+******SONG INFO******
+9
+song name: Blowin' in the Wind
+preview song: https://p.scdn.co/mp3-preview/b6cbb3f34c331aa8869cd979d7894d87fd3cc841?cid=51e469f29b814403829cf7082a9c2e76
+album: Blow in the Wind
+******SONG INFO******
+10
+song name: All My Lovin'
+preview song: https://p.scdn.co/mp3-preview/a2fd53d84e10fdeb3da0e64e55246610c2a162ab?cid=51e469f29b814403829cf7082a9c2e76
+album: Blow in the Wind
+******SONG INFO******
+11
+song name: Watch The Wind Blow By
+preview song: https://p.scdn.co/mp3-preview/045ddd461002f821069b99599ee001afc63d26cf?cid=51e469f29b814403829cf7082a9c2e76
+album: Number One Hits
+******SONG INFO******
+12
+song name: Blow Wind Blow
+preview song: https://p.scdn.co/mp3-preview/8b1b2a52c2d0d378636d8f7a8f6b412f471af251?cid=51e469f29b814403829cf7082a9c2e76
+album: Dr. John's Gumbo
+******SONG INFO******
+13
+song name: Wind Lullaby - Winds Blow Across The Prarie & Flute Songs
+preview song: https://p.scdn.co/mp3-preview/dcb837bb7245ac82f755c3c329c39156befad94c?cid=51e469f29b814403829cf7082a9c2e76
+album: Native American Flute For Newborns, Sleep Therapy & Massage (80 Minutes of Music for Babies, Sleep Therapy, Massage & New Age)
+******SONG INFO******
+14
+song name: Runaway
+preview song: https://p.scdn.co/mp3-preview/016d7077a15c6baade1ee976a1c1ec37bdbbfaa2?cid=51e469f29b814403829cf7082a9c2e76
+album: Blow in the Wind
+******SONG INFO******
+15
+song name: Blow Me to Bermuda
+preview song: https://p.scdn.co/mp3-preview/091922ffabd535a3094ac3ff61078e166f2bfe1f?cid=51e469f29b814403829cf7082a9c2e76
+album: The Lost Boys
+******SONG INFO******
+16
+song name: I Only Want to Be with You
+preview song: https://p.scdn.co/mp3-preview/99632bf025341119b370614b451fb0dc3a250fc5?cid=51e469f29b814403829cf7082a9c2e76
+album: Blow in the Wind
+******SONG INFO******
+17
+song name: Watch The Wind Blow By
+preview song: https://p.scdn.co/mp3-preview/e4c76f80b2b7bb8db42f2e9ed86596025a577710?cid=51e469f29b814403829cf7082a9c2e76
+album: McGRAW (The Ultimate Collection)
+******SONG INFO******
+18
+song name: Blow Like the Wind
+preview song: https://p.scdn.co/mp3-preview/5467aa966f3c687f0f4450ca0e64ca399fa1dc95?cid=51e469f29b814403829cf7082a9c2e76
+album: Go Hard
+******SONG INFO******
+19
+song name: Blow, Blow, Thou Winter Wind
+preview song: https://p.scdn.co/mp3-preview/52cf0228b8eac2c4bbb19cf3e6dded6060c27552?cid=51e469f29b814403829cf7082a9c2e76
+album: William Shakespeare poems Volume 1
+**********EVENT INFO*********
+0
+Name of the Venue: The Met
+Venue Location: Philadelphia
+Date of the Event: 2019-06-12T18:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: MGM National Harbor
+Venue Location: Washington
+Date of the Event: 2019-06-14T18:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Red Hat Amphitheater
+Venue Location: Raleigh
+Date of the Event: 2019-06-15T18:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: State Bank Amphitheatre at Chastain Park
+Venue Location: Atlanta
+Date of the Event: 2019-06-19T18:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: CFE Arena
+Venue Location: Orlando
+Date of the Event: 2019-06-21T18:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Bayfront Park Amphitheater
+Venue Location: Miami
+Date of the Event: 2019-06-22T18:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: St. Augustine Amphitheater
+Venue Location: St. Augustine
+Date of the Event: 2019-06-23T18:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Ascend Amphitheatre
+Venue Location: Nashville
+Date of the Event: 2019-06-25T18:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: The Pavilion at Toyota Music Factory
+Venue Location: Dallas
+Date of the Event: 2019-06-28T18:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Revention Music Center
+Venue Location: Houston
+Date of the Event: 2019-06-29T18:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: H-E-B Center at Cedar Park
+Venue Location: Austin
+Date of the Event: 2019-06-30T18:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Villa Hispana Pavilion
+Venue Location: Albuquerque
+Date of the Event: 2019-07-02T18:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Comerica Theatre
+Venue Location: Phoenix
+Date of the Event: 2019-07-05T18:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: House of Blues
+Venue Location: Las Vegas
+Date of the Event: 2019-07-06T18:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Cal Coast Credit Union OAT
+Venue Location: San Diego
+Date of the Event: 2019-07-10T18:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-07-12T18:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: The Masonic
+Venue Location: San Francisco
+Date of the Event: 2019-07-13T18:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: WAMU Theater
+Venue Location: Seattle
+Date of the Event: 2019-07-16T18:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Queen Elizabeth Theatre
+Venue Location: Vancouver
+Date of the Event: 2019-07-17T18:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Moda Center (TOTC)
+Venue Location: Portland
+Date of the Event: 2019-07-18T18:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: USANA Pavilion**
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-20T18:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: The Fillmore Auditorium
+Venue Location: Denver
+Date of the Event: 2019-07-21T18:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Pinewood Bowl
+Venue Location: Lincoln
+Date of the Event: 2019-07-24T18:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Uptown Theater
+Venue Location: Kansas City
+Date of the Event: 2019-07-25T18:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Huntington Bank Pavilion at Northerly Island
+Venue Location: Chicago
+Date of the Event: 2019-07-27T18:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: The Armory
+Venue Location: Minneapolis
+Date of the Event: 2019-07-28T18:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Meadow Brook Amphitheater
+Venue Location: Detroit
+Date of the Event: 2019-07-30T18:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: PNC Pavilion at Riverbend Music Center
+Venue Location: Cincinnati
+Date of the Event: 2019-07-31T18:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Farm Bureau Insurance Lawn
+Venue Location: Indianapolis
+Date of the Event: 2019-08-02T18:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Jacobs Pavilion at Nautica
+Venue Location: Cleveland
+Date of the Event: 2019-08-03T18:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Blue Hills Bank Pavilion
+Venue Location: Boston
+Date of the Event: 2019-08-06T18:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Mohegan Sun Arena
+Venue Location: Uncasville
+Date of the Event: 2019-08-08T18:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Northwell Health at Jones Beach Theater
+Venue Location: Wantagh
+Date of the Event: 2019-08-10T18:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: MECU Pavilion
+Venue Location: Baltimore
+Date of the Event: 2019-08-11T18:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Rockefeller
+Venue Location: Oslo
+Date of the Event: 2019-09-18T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Fryhuset
+Venue Location: Stockholm
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Vega
+Venue Location: Copenhagen
+Date of the Event: 2019-09-20T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Kesselhaus
+Venue Location: Berlin
+Date of the Event: 2019-09-22T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Batschkapp
+Venue Location: Frankfurt
+Date of the Event: 2019-09-24T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Paradiso
+Venue Location: Amsterdam
+Date of the Event: 2019-09-25T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: TRIX
+Venue Location: Antwerp
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Live Music Hall
+Venue Location: Cologne
+Date of the Event: 2019-09-28T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Kaufleuten
+Venue Location: Zurich
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Fabrique
+Venue Location: Milan
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Le Trabendo
+Venue Location: Paris
+Date of the Event: 2019-10-02T20:00:00
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: Roundhouse
+Venue Location: London
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: o2 Academy
+Venue Location: Birmingham
+Date of the Event: 2019-10-05T20:00:00
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: SWG3
+Venue Location: Glasgow
+Date of the Event: 2019-10-07T20:00:00
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: O2 Academy
+Venue Location: Manchester
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: Olympia
+Venue Location: Dublin
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: Forum
+Venue Location: Melbourne
+Date of the Event: 2019-11-06T20:00:00
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: Tivoli
+Venue Location: Brisbane
+Date of the Event: 2019-11-07T20:00:00
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: Enmore Theatre
+Venue Location: Sydney
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: Powerstation
+Venue Location: Auckland
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Fairgrounds New Orleans
+Venue Location: New Orleans
+Date of the Event: 2019-04-27T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Pimlico Race Course
+Venue Location: Baltimore
+Date of the Event: 2019-05-18T09:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Harvard Athletic Complex
+Venue Location: Boston
+Date of the Event: 2019-05-24T11:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Harvard Athletic Complex
+Venue Location: Boston
+Date of the Event: 2019-05-26T12:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Plains of Abraham
+Venue Location: Quebec
+Date of the Event: 2019-07-04T03:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Lebreton Flats
+Venue Location: Ottawa
+Date of the Event: 2019-07-10T17:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Plains of Abraham
+Venue Location: Quebec
+Date of the Event: 2019-07-12T17:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Parc Jean-Drapeau
+Venue Location: Montréal
+Date of the Event: 2019-08-02T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Parc Jean-Drapeau
+Venue Location: Montréal
+Date of the Event: 2019-08-03T11:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: SpringHill Suites by Marriott Orange Beach at The Wharf
+Venue Location: Orange Beach
+Date of the Event: 2019-04-23T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ameris Bank Amphitheatre
+Venue Location: Alpharetta
+Date of the Event: 2019-04-25T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2019-04-27T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Fair Grounds Race Course & Slots
+Venue Location: New Orleans
+Date of the Event: 2019-05-02T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Fair Grounds Race Course & Slots
+Venue Location: New Orleans
+Date of the Event: 2019-05-03T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The Cynthia Woods Mitchell Pavilion
+Venue Location: The Woodlands
+Date of the Event: 2019-06-01T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: BOK Center
+Venue Location: Tulsa
+Date of the Event: 2019-06-04T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Verizon Arena
+Venue Location: North Little Rock
+Date of the Event: 2019-06-06T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Dos Equis Pavilion
+Venue Location: Dallas
+Date of the Event: 2019-06-08T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Metropolis
+Venue Location: Montreal
+Date of the Event: 2019-07-10T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Budweiser Stage
+Venue Location: Toronto
+Date of the Event: 2019-07-13T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: DTE Energy Music Theatre
+Venue Location: Clarkston
+Date of the Event: 2019-07-16T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Riverbend Music Center
+Venue Location: Cincinnati
+Date of the Event: 2019-07-18T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Alpine Valley Music Theatre
+Venue Location: Elkhorn
+Date of the Event: 2019-07-20T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Veterans United Home Loans Amphitheater
+Venue Location: Virginia Beach
+Date of the Event: 2019-08-03T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: PNC Bank Arts Center
+Venue Location: Holmdel
+Date of the Event: 2019-08-06T19:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Northwell Health at Jones Beach Theater
+Venue Location: Wantagh
+Date of the Event: 2019-08-08T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Xfinity Center
+Venue Location: Mansfield
+Date of the Event: 2019-08-10T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Olympia Theatre
+Venue Location: Dublin
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2019-09-23T19:45:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Santa Barbara Bowl
+Venue Location: Santa Barbara
+Date of the Event: 2019-10-16T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: MGM Grand Garden Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-10-19T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: SpringHill Suites by Marriott Orange Beach at The Wharf
+Venue Location: Orange Beach
+Date of the Event: 2019-04-23T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ameris Bank Amphitheatre
+Venue Location: Alpharetta
+Date of the Event: 2019-04-25T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2019-04-27T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Fair Grounds Race Course & Slots
+Venue Location: New Orleans
+Date of the Event: 2019-05-02T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Fair Grounds Race Course & Slots
+Venue Location: New Orleans
+Date of the Event: 2019-05-03T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The Cynthia Woods Mitchell Pavilion
+Venue Location: The Woodlands
+Date of the Event: 2019-06-01T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: BOK Center
+Venue Location: Tulsa
+Date of the Event: 2019-06-04T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Verizon Arena
+Venue Location: North Little Rock
+Date of the Event: 2019-06-06T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Dos Equis Pavilion
+Venue Location: Dallas
+Date of the Event: 2019-06-08T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Metropolis
+Venue Location: Montreal
+Date of the Event: 2019-07-10T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Budweiser Stage
+Venue Location: Toronto
+Date of the Event: 2019-07-13T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: DTE Energy Music Theatre
+Venue Location: Clarkston
+Date of the Event: 2019-07-16T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Riverbend Music Center
+Venue Location: Cincinnati
+Date of the Event: 2019-07-18T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Alpine Valley Music Theatre
+Venue Location: Elkhorn
+Date of the Event: 2019-07-20T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Veterans United Home Loans Amphitheater
+Venue Location: Virginia Beach
+Date of the Event: 2019-08-03T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: PNC Bank Arts Center
+Venue Location: Holmdel
+Date of the Event: 2019-08-06T19:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Northwell Health at Jones Beach Theater
+Venue Location: Wantagh
+Date of the Event: 2019-08-08T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Xfinity Center
+Venue Location: Mansfield
+Date of the Event: 2019-08-10T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Olympia Theatre
+Venue Location: Dublin
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2019-09-23T19:45:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Santa Barbara Bowl
+Venue Location: Santa Barbara
+Date of the Event: 2019-10-16T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: MGM Grand Garden Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-10-19T20:00:00
+*****************************
